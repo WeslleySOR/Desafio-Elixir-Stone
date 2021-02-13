@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O18FWRQnra1dNfdQjR3t2PuRK0PN4cBMD+qNSPyEhfg9nUFYp4rkioJ9EcZcc/LQgAlln3HaZbtl60kAfP/zZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WeslleyR\\Desktop\\desafio-elixir-stone\\desafio-elixir-stone\\desafio-elixir-stone.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WeslleyR\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

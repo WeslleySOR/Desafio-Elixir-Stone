@@ -1,0 +1,14 @@
+C:\Users\WeslleyR\Desktop\desafio-elixir-stone\desafio-elixir-stone\bin\Debug\netcoreapp3.1\desafio-elixir-stone.exe
+C:\Users\WeslleyR\Desktop\desafio-elixir-stone\desafio-elixir-stone\bin\Debug\netcoreapp3.1\desafio-elixir-stone.deps.json
+C:\Users\WeslleyR\Desktop\desafio-elixir-stone\desafio-elixir-stone\bin\Debug\netcoreapp3.1\desafio-elixir-stone.runtimeconfig.json
+C:\Users\WeslleyR\Desktop\desafio-elixir-stone\desafio-elixir-stone\bin\Debug\netcoreapp3.1\desafio-elixir-stone.runtimeconfig.dev.json
+C:\Users\WeslleyR\Desktop\desafio-elixir-stone\desafio-elixir-stone\bin\Debug\netcoreapp3.1\desafio-elixir-stone.dll
+C:\Users\WeslleyR\Desktop\desafio-elixir-stone\desafio-elixir-stone\bin\Debug\netcoreapp3.1\desafio-elixir-stone.pdb
+C:\Users\WeslleyR\Desktop\desafio-elixir-stone\desafio-elixir-stone\obj\Debug\netcoreapp3.1\desafio-elixir-stone.AssemblyInfoInputs.cache
+C:\Users\WeslleyR\Desktop\desafio-elixir-stone\desafio-elixir-stone\obj\Debug\netcoreapp3.1\desafio-elixir-stone.AssemblyInfo.cs
+C:\Users\WeslleyR\Desktop\desafio-elixir-stone\desafio-elixir-stone\obj\Debug\netcoreapp3.1\desafio-elixir-stone.csproj.CoreCompileInputs.cache
+C:\Users\WeslleyR\Desktop\desafio-elixir-stone\desafio-elixir-stone\obj\Debug\netcoreapp3.1\desafio-elixir-stone.dll
+C:\Users\WeslleyR\Desktop\desafio-elixir-stone\desafio-elixir-stone\obj\Debug\netcoreapp3.1\desafio-elixir-stone.pdb
+C:\Users\WeslleyR\Desktop\desafio-elixir-stone\desafio-elixir-stone\obj\Debug\netcoreapp3.1\desafio-elixir-stone.genruntimeconfig.cache
+C:\Users\WeslleyR\Desktop\desafio-elixir-stone\desafio-elixir-stone\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\WeslleyR\Desktop\desafio-elixir-stone\desafio-elixir-stone\obj\Debug\netcoreapp3.1\desafio-elixir-stone.csproj.CopyComplete

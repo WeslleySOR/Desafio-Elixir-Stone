@@ -1,0 +1,27 @@
+[
+  {
+    "items": [
+      {
+        "Produto": "ssd",
+        "Quantidade": 2,
+        "Preço": 50000
+      },
+      {
+        "Produto": "hd",
+        "Quantidade": 4,
+        "Preço": 30000
+      },
+      {
+        "Produto": "mouse",
+        "Quantidade": 1,
+        "Preço": 4000
+      },
+      {
+        "Produto": "teclado",
+        "Quantidade": 2,
+        "Preço": 40000
+      }
+    ],
+    "emails": ["email1@gmail.com", "email2@gmail.com", "email3@gmail.com"]
+  }
+]
